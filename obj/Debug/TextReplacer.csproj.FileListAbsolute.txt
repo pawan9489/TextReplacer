@@ -1,0 +1,16 @@
+S:\Learnings\C#\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe.config
+S:\Learnings\C#\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe
+S:\Learnings\C#\TextReplacer\TextReplacer\bin\Debug\TextReplacer.pdb
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.csprojAssemblyReference.cache
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\MainWindow.g.cs
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\App.g.cs
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer_Content.g.cs
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer_MarkupCompile.cache
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer_MarkupCompile.lref
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\MainWindow.baml
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.g.resources
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.Properties.Resources.resources
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.csproj.GenerateResource.cache
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.csproj.CoreCompileInputs.cache
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.exe
+S:\Learnings\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.pdb
